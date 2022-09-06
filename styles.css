@@ -1,0 +1,96 @@
+/* P
+
+Pinky: #fbe3e8
+
+Blue Greeny: #5cbdb9
+
+Teeny Greeny: #ebf6f5
+
+*/
+
+
+body {
+    background-color: #fbe3e8;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+  
+div {
+    
+    margin: 5% 20%;
+    padding: 50px;
+    background-color: #ebf6f5;
+    border-radius: 50px;
+    
+}
+
+.summary-text {
+    
+    
+    display: inline-block;
+    vertical-align: middle;
+    width: 300px;
+    height: 500px;
+    border-radius: 100px;
+    
+ 
+}
+
+img {
+    
+    
+    height: 500px;
+    display: inline-block;
+    vertical-align: middle;
+    width: auto;
+    background-color: black;
+    border-radius: 50px;
+    margin-left: 100px;
+ 
+}
+
+article {
+  
+    margin: 10px;
+    padding: 20px;
+    border-radius: 50px;
+    background-color: white;
+    
+    
+}
+
+h1 {
+    font-size: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+    
+    
+
+li {
+    margin: 10px 0px;
+}
+
+button {
+    font-size: large;
+    margin: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+span {
+
+    background-color: white;
+}
+
+h2 {
+    text-align: center;
+}
+
+button {
+    background: #5cbdb9;
+    padding: 10px;
+    border-radius: 44px;
+    width: 100px;
+    border-color: #fbe3e8;
+}
