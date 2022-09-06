@@ -41,9 +41,9 @@ img {
     
     
     height: 500px;
+    width: auto;
     display: inline-block;
     vertical-align: middle;
-    width: auto;
     background-color: black;
     border-radius: 50px;
     margin-left: 100px;
@@ -64,9 +64,6 @@ h1 {
     font-size: 50px;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-
-
-    
     
 
 li {
