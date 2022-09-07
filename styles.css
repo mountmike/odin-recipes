@@ -10,7 +10,7 @@ Teeny Greeny: #ebf6f5
 
 
 body {
-    background-color: #fbe3e8;
+    background-image: -webkit-linear-gradient(135deg, #5cbdb9, #fbe3e8);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
 }
@@ -19,7 +19,7 @@ div {
     
     margin: 5% 20%;
     padding: 50px;
-    background-color: #ebf6f5;
+    background-image: -webkit-linear-gradient(135deg, #5cbdb9, #fbe3e8);
     border-radius: 50px;
     
 }
@@ -91,4 +91,8 @@ button {
     border-radius: 44px;
     width: 100px;
     border-color: #fbe3e8;
+}
+
+h1 {
+    text-align: center;
 }
